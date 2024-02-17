@@ -1,2 +1,4 @@
-# deck-of-cards
-This repository contains the starter files for the Deck of Cards project.
+# Deck of Cards
+
+## Objective
+Using the provided files, generate all 52 cards of a standard deck of cards using JavaScript.
